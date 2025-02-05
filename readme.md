@@ -28,15 +28,15 @@
 
 Step 1：点击`lssues`，再点击`New lssues`
 
-![](2.png)
+![](./2.png)
 
 Step 2：编写正文内容并且发表
 
-![](3.png)
+![](./3.png)
 
 Step 3：发表回复
 
-![](4.png)
+![](./4.png)
 
 # 使用Git Clone本仓库
 
@@ -48,7 +48,7 @@ git --version
 
 最终结果应该显示你当前安装Git版本的版本号，结果如下图所示：
 
-![](D:\Documents\Github\ezg\1.png)
+![](./1.png)
 
 如果正确安装Git，你可以执行以下命令进行克隆
 
